@@ -1,4 +1,10 @@
-I'm the founder and solo developer of [Apex Software](https://apex.sh/). I'm currently working on [Apex Logs](https://apex.sh/logs/), a terabyte-scale structured logging solution with industry-leading pricing.
+I'm the founder and solo developer of [Apex Software](https://apex.sh/).
+
+My products:
+
+- [Apex Logs](https://apex.sh/logs/) — Structured logging at any scale
+- [Apex Ping](https://apex.sh/ping/) — Powerful uptime monitoring
+- [Apex Up](https://apex.sh/up/) — Deploy serverless apps and APIs
 
 You can find me here:
 
