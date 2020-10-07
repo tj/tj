@@ -13,6 +13,6 @@ You can find me here:
 - [Blog](https://apex.sh/blog/)
 - [Slack](https://chat.apex.sh/)
 
-I'm currently working on Apex Logs, a powerful structured and plain-text log management solution featuring a rich query language, flexible alerting integrations, unlimited log retention, and disruptive pricing unmatched in the industry.
+I'm currently working on [Apex Logs](https://apex.sh/logs/), a powerful structured and plain-text log management solution featuring a rich query language, flexible alerting integrations, unlimited log retention, and disruptive pricing unmatched in the industry.
 
 [![](https://apex-software.imgix.net/logs/site/themes-3.png?auto=format&w=1000&dpr=2)](https://apex.sh/logs/)
