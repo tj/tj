@@ -1,14 +1,12 @@
-I'm the founder and solo developer of [Apex Software](https://apex.sh/).
+I'm the founder and solo developer of [Apex Software](https://apex.sh/). I'm currently working on [Apex Logs](https://apex.sh/logs/), a powerful structured and plain-text log management solution featuring a rich query language, flexible alerting integrations, unlimited log retention, and disruptive pricing unmatched in the industry.
+
+[![](https://apex-software.imgix.net/logs/site/themes-3.png?auto=format&w=1000&dpr=2)](https://apex.sh/logs/)
 
 My products:
 
 - [Apex Logs](https://apex.sh/logs/) — Structured logging at any scale
 - [Apex Ping](https://apex.sh/ping/) — Powerful uptime monitoring
 - [Apex Up](https://apex.sh/up/) — Deploy serverless apps and APIs
-
-I'm currently working on [Apex Logs](https://apex.sh/logs/), a powerful structured and plain-text log management solution featuring a rich query language, flexible alerting integrations, unlimited log retention, and disruptive pricing unmatched in the industry.
-
-[![](https://apex-software.imgix.net/logs/site/themes-3.png?auto=format&w=1000&dpr=2)](https://apex.sh/logs/)
 
 You can find me here:
 
