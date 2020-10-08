@@ -9,8 +9,12 @@ Thank you to the companies for [sponsor](https://github.com/sponsors/tj) my open
 <table>
   <body>
     <tr>
-      <td width="50%"><img alt="CTO AI" src="https://apex-software.imgix.net/github/sponsors/cto-ai.png" /></td>
-      <td width="50%"></td>
+      <td width="50%" align="center">
+        <img alt="CTO AI" src="https://apex-software.imgix.net/github/sponsors/cto-ai.png" />
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sponsors/tj">Interested in sponsoring?</a>
+      </td>
     </tr>
   </body>
 </table>
