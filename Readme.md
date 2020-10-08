@@ -87,12 +87,7 @@ Thank you to the individuals who [sponsor](https://github.com/sponsors/tj) my wo
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/63" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/63)
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/64" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/64)
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/65" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/65)
-[<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/66" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/66)
-[<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/67" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/67)
-[<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/68" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/68)
-[<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/66" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/69)
-[<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/67" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/70)
-[<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/68" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/71)
+
 
 ## Social
 
