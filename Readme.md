@@ -92,6 +92,11 @@ Thank you to the individuals who sponsor my work:
 
 If you'd like to get your company logo or face here, consider [sponsoring me on GitHub]([sponsoring](https://github.com/sponsors/tj)).
 
----
+## Social
 
-[Twitter](https://twitter.com/tjholowaychuk) • [Instagram](https://www.instagram.com/tjholowaychuk/) • [Blog](https://apex.sh/blog/) • [Slack](https://chat.apex.sh/)
+You can find me here:
+
+- [Twitter](https://twitter.com/tjholowaychuk)
+- [Instagram](https://www.instagram.com/tjholowaychuk/)
+- [Blog](https://apex.sh/blog/)
+- [Slack](https://chat.apex.sh/)
