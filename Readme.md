@@ -4,7 +4,7 @@ I'm the founder and solo developer of [Apex Software](https://apex.sh/). I'm cur
 
 ## Sponsors
 
-Thank you to the companies for sponsor my open-source work.
+Thank you to the companies for [sponsor](https://github.com/sponsors/tj) my open-source work.
 
 <table>
   <body>
@@ -15,7 +15,7 @@ Thank you to the companies for sponsor my open-source work.
   </body>
 </table>
 
-Thank you to the individuals who sponsor my work:
+Thank you to the individuals who [sponsor](https://github.com/sponsors/tj) my work:
 
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/0" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/0)
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/1" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/1)
@@ -89,8 +89,6 @@ Thank you to the individuals who sponsor my work:
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/66" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/69)
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/67" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/70)
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/68" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/71)
-
-If you'd like to get your company logo or face here, consider [sponsoring me on GitHub]([sponsoring](https://github.com/sponsors/tj)).
 
 ## Social
 
