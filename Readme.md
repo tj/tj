@@ -15,7 +15,7 @@ Thank you to the companies for [sponsor](https://github.com/sponsors/tj) my open
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/sponsors/tj">Interested in sponsoring?</a>
+        <a href="https://github.com/sponsors/tj">Become a sponsor</a>
       </td>
     </tr>
   </body>
