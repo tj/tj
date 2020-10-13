@@ -11,7 +11,20 @@ Thank you to the companies for [sponsor](https://github.com/sponsors/tj) my open
     <tr>
       <td width="50%" align="center">
         <a href="https://cto.ai/">
-          <img alt="CTO AI" src="https://apex-software.imgix.net/github/sponsors/cto-ai.png" />
+          <img alt="CTO AI Slack first DevOps Workflows" src="https://apex-software.imgix.net/github/sponsors/cto-ai.png" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://clay.global/">
+          <img alt="Clay is a UI/UX design and branding
+agency in San Francisco" src="https://apex-software.imgix.net/github/sponsors/clay-logo.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://www.storyblok.com/developers?utm_source=tj&utm_medium=github&utm_campaign=sponsorship">
+          <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" src="https://apex-software.imgix.net/github/sponsors/storyblok-logo.png" />
         </a>
       </td>
       <td width="50%" align="center">
