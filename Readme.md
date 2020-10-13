@@ -24,7 +24,7 @@ agency in San Francisco" src="https://apex-software.imgix.net/github/sponsors/cl
     <tr>
       <td width="50%" align="center">
         <a href="https://www.storyblok.com/developers?utm_source=tj&utm_medium=github&utm_campaign=sponsorship">
-          <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" src="https://apex-software.imgix.net/github/sponsors/storyblok-logo.png" />
+          <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" src="https://apex-software.imgix.net/github/sponsors/storyblok-logo-dark.png" />
         </a>
       </td>
       <td width="50%" align="center">
