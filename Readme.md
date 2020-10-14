@@ -1,10 +1,8 @@
-I'm the founder and solo developer of [Apex Software](https://apex.sh/). I'm currently working on [Apex Logs](https://apex.sh/logs/), a powerful structured and plain-text log management solution featuring a rich query language, flexible alerting integrations, unlimited log retention, and disruptive pricing unmatched in the industry.
-
-[![](https://apex-software.imgix.net/logs/site/themes-3.png?auto=format&w=1000&dpr=2)](https://apex.sh/logs/)
+I'm the founder and solo developer of [Apex Software](https://apex.sh/).
 
 ## Sponsors
 
-Thank you to the companies for [sponsor](https://github.com/sponsors/tj) my open-source work.
+Thank you to the companies which [sponsor](https://github.com/sponsors/tj) my open-source work:
 
 <table>
   <body>
