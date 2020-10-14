@@ -1,8 +1,4 @@
-I'm the founder and solo developer of [Apex Software](https://apex.sh/).
-
-## Sponsors
-
-Thank you to the companies which [sponsor](https://github.com/sponsors/tj) my open-source work:
+I'm the founder and solo developer of [Apex Software](https://apex.sh/). I've written hundreds of open-source projects for the JavaScript and Go communities, and I'd like to thank these companies for [sponsoring](https://github.com/sponsors/tj) my open-source work:
 
 <table>
   <body>
@@ -32,7 +28,7 @@ agency in San Francisco" src="https://apex-software.imgix.net/github/sponsors/cl
   </body>
 </table>
 
-Thank you to the individuals who [sponsor](https://github.com/sponsors/tj) my work:
+And thank you to the individuals who [sponsor](https://github.com/sponsors/tj) my work:
 
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/0" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/0)
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/1" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/1)
@@ -102,11 +98,9 @@ Thank you to the individuals who [sponsor](https://github.com/sponsors/tj) my wo
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/65" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/65)
 
 
-## Social
-
 You can find me here:
 
-- [Twitter](https://twitter.com/tjholowaychuk)
-- [Instagram](https://www.instagram.com/tjholowaychuk/)
-- [Blog](https://apex.sh/blog/)
-- [Slack](https://chat.apex.sh/)
+[Twitter](https://twitter.com/tjholowaychuk) •
+[Instagram](https://www.instagram.com/tjholowaychuk/) •
+[Blog](https://apex.sh/blog/) •
+[Slack](https://chat.apex.sh/)
