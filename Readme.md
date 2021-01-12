@@ -23,7 +23,7 @@ agency in San Francisco" src="https://apex-software.imgix.net/github/sponsors/cl
       </td>
       <td width="50%" align="center">
         <a href="https://oss.capital/">
-          <img alt="OSS Capital: The first early-stage COSS-focused startup investor since 2018. Open source eats everything!" src="https://apex-software.imgix.net/github/sponsors/oss-capital-transparent.png" />
+          <img alt="OSS Capital: The first early-stage COSS-focused startup investor since 2018. Open source eats everything!" src="https://apex-software.imgix.net/github/sponsors/oss-capital-transparent-2.png" />
         </a>
       </td>
     </tr>
