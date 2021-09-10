@@ -28,8 +28,10 @@ agency in San Francisco" src="https://apex-software.imgix.net/github/sponsors/cl
       </td>
     </tr>
     <tr>
-      <td width="50%" height="145" align="center">
-        <a href="https://github.com/sponsors/tj">Become a sponsor</a>
+      <td width="50%" align="center">
+        <a href="https://spike.sh?utm_source=github&utm_medium=sponsorship&utm_campaign=tj">
+          <img alt="Simple incident management" src="https://apex-software.imgix.net/github/sponsors/spike-logo.png" />
+        </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/sponsors/tj">Become a sponsor</a>
