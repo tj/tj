@@ -34,8 +34,8 @@ agency in San Francisco" src="https://apex-software.imgix.net/github/sponsors/cl
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/sponsors/tj">
-          <img alt="Feature Flag & Remote Config Service" src="" />
+        <a href="https://flagsmith.com/">
+          <img alt="Feature Flag & Remote Config Service" src="flagship-logo.png" />
         </a>
       </td>
     </tr>
