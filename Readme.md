@@ -34,6 +34,16 @@ agency in San Francisco" src="https://apex-software.imgix.net/github/sponsors/cl
         </a>
       </td>
       <td width="50%" align="center">
+        <a href="https://github.com/sponsors/tj">
+          <img alt="Feature Flag & Remote Config Service" src="" />
+        </a>
+      </td>
+    </tr>
+        <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sponsors/tj">Become a sponsor</a>
+      </td>
+      <td width="50%" align="center">
         <a href="https://github.com/sponsors/tj">Become a sponsor</a>
       </td>
     </tr>
