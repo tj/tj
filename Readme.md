@@ -120,9 +120,3 @@ And thank you to the individuals who [sponsor](https://github.com/sponsors/tj) m
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/65" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/65)
 
 
-You can find me here:
-
-[Twitter](https://twitter.com/tjholowaychuk) •
-[Instagram](https://www.instagram.com/tjholowaychuk/) •
-[Blog](https://apex.sh/blog/) •
-[Slack](https://chat.apex.sh/)
